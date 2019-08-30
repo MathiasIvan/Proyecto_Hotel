@@ -10,6 +10,7 @@ namespace PruebaGit
     {
         static void Main(string[] args)
         {
+            Console.Write("Hola");
         }
     }
 }
