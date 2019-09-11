@@ -10,7 +10,8 @@ namespace PruebaGit
     {
         static void Main(string[] args)
         {
-            Console.Write("Hola");
+            Console.Write("Hola, Prueba");
+            Console.WriteLine("Fin de Programa, presione una tecla para finalizar...");
             Console.ReadLine();
         }
     }
